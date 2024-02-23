@@ -1,0 +1,8 @@
+.listItem {
+  width: 300px;
+}
+.listContact {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
