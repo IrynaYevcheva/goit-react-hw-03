@@ -23,3 +23,9 @@ Currently, two official plugins are available:
 - source map
 - modern normalize
  -->
+
+<!--
+- npm install formik
+- npm install yup
+- npm i nanoid
+ -->
