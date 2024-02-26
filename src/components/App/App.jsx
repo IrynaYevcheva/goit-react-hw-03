@@ -38,7 +38,6 @@ export default function App() {
       ...prevContacts,
       { ...newContact, id: nanoid() },
     ]);
-    console.log(newContact);
     resetForm();
   };
 
